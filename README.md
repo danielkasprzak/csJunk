@@ -5,7 +5,7 @@ Generates random types of variables multiple times in your .cs file, especially 
 
 ### How to use it?
 
-- Enter you .cs file name (make sure it's the same directory)
+- Enter your .cs file name (make sure it's the same directory)
 - Enter number of threads
 
 ### Credits
