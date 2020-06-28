@@ -1,0 +1,6 @@
+C:\Users\Daniel\Desktop\cJunk\cJunk\bin\Release\cJunk.exe.config
+C:\Users\Daniel\Desktop\cJunk\cJunk\bin\Release\cJunk.exe
+C:\Users\Daniel\Desktop\cJunk\cJunk\bin\Release\cJunk.pdb
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Release\cJunk.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Release\cJunk.exe
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Release\cJunk.pdb

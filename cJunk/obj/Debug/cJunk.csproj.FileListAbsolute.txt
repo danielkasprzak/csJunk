@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\cJunk\cJunk\bin\Debug\cJunk.exe.config
+C:\Users\Daniel\Desktop\cJunk\cJunk\bin\Debug\cJunk.exe
+C:\Users\Daniel\Desktop\cJunk\cJunk\bin\Debug\cJunk.pdb
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Debug\cJunk.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Debug\cJunk.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Debug\cJunk.exe
+C:\Users\Daniel\Desktop\cJunk\cJunk\obj\Debug\cJunk.pdb
