@@ -10,4 +10,4 @@ Generates random types of variables multiple times in your .cs file, especially 
 
 ### Credits
 
-- All credits to goldblack [https://github.com/goldblackk]
+- All credits to [Nyxon](https://github.com/Nyxonn)
